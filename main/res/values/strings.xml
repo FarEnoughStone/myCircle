@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TimeTables</string>
+    <string name="nextProject">下节课程：</string>
+    <string name="nowProject">当前课程：</string>
+    <string name="nextClassBeginsTime">距下节课上课还有：</string>
+    <string name="theClassOverTime">距下课还有：</string>
+    <string name="classOverTime_1st">9:45</string>
+    <string name="classOverTime_2nd">12:00</string>
+    <string name="classOverTime_3rd">16:15</string>
+    <string name="classOverTime_4th">18:20</string>
+    <string name="classBeginsTime_1st">8:00</string>
+    <string name="classBeginsTime_2nd">10:15</string>
+    <string name="classBeginsTime_3rd">14:30</string>
+    <string name="classBeginsTime_4th">16:35</string>
+    <string name="bandaoti">半导体器件\\商世广</string>
+    <string name="verilog">Verilog HDL\\黄海生</string>
+    <string name="maogai">毛概\\孙继军 </string>
+    <string name="szxtzcysj">数字系统组成与设计\\山蕊</string>
+    <string name="classRoom_A240">A240</string>
+    <string name="classRoom_B205">B205</string>
+    <string name="classRoom_A244">A244</string>
+    <string name="classRoom_A201">A201</string>
+    <string name="classRoom_A208">A208</string>
+    <string name="classRoom_A120">A120</string>
+    <string name="classRoom_A412">A412</string>
+</resources>
